@@ -1,0 +1,10 @@
+﻿  Lab3P3_HectorCaceres.cpp
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(171,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(260,24): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(297,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(297,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(297,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(298,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres\Lab3P3_HectorCaceres.cpp(316,23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Lab3P3_HectorCaceres.vcxproj -> C:\Users\hecto\source\repos\Lab3P3_HectorCaceres\x64\Debug\Lab3P3_HectorCaceres.exe
